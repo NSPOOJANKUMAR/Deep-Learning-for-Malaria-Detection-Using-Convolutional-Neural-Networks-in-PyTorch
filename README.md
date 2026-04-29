@@ -1,0 +1,2 @@
+# Deep-Learning-for-Malaria-Detection-Using-Convolutional-Neural-Networks-in-PyTorch
+ want to train a Convolutional Neural Network (CNN) using PyTorch to classify blood smear images as either infected or not. The model would take an image as input and output a prediction. If it works well enough, something like this could eventually assist clinics in processing slides faster and with more consistency.
